@@ -6,17 +6,16 @@
 ## 👑 最近在搞什么
 
 - 🏛️ **Imperial Cabinet for OpenClaw**  
-  用「内阁都察制 · 御前内阁系统」把多 Agent 当成明清官僚体系来治理，专门给一人公司用 OpenClaw 接管日常工作流。[web:6][web:48]
-
+  用「内阁都察制 · 御前内阁系统」把多 Agent 当成明清官僚体系来治理，专门给一人公司用 OpenClaw 接管日常工作流。
 - 🤖 Multi‑Agent 工作流  
-  把写文档、跑脚本、做运营、记账审计拆给不同 Agent，让人类只负责「拍板 + 暂停键」。[web:45][web:49]
+  把写文档、跑脚本、做运营、记账审计拆给不同 Agent，让人类只负责「拍板 + 暂停键」。
 
 - 🧪 小型自动化收入流实验  
   用现成开源项目 + 云服务，搭一些「能自己滚动维护、哪怕小但稳定」的收入小流水线。
 
 ## 🛠 技术栈 & 兴趣
 
-- AI & Agents：OpenClaw、多模型编排、多 Agent 治理[web:6][web:45]  
+- AI & Agents：OpenClaw、多模型编排、多 Agent 治理
 - Dev：Python / TypeScript / Shell，偏向实用脚本和自动化  
 - Infra：macOS、本地 LLM + 云端 API 混合，小而美的部署方案  
 - 话题：一人公司、自动化工作流、怎么用 AI 少加班
