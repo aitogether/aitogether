@@ -1,4 +1,4 @@
-# 👋 Hi, I’m diygun @ aitogether
+# 👋 Hi, I’m aitogether
 
 一位爱折腾、怕麻烦的个人开发者，长期在深圳研究「AI + 自动化 + 一人公司」。  
 我更关心：**怎么少写命令、多让 Agent 干活、多一点可持续的闲钱。**
