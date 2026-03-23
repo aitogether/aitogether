@@ -29,7 +29,11 @@
   > WeChat mini program for adult children to get a weekly briefing on aging parents, plus a gentle parent app and one-tap echo feedback.
 
 - [imperial-cabinet-openclaw](https://github.com/aitogether/imperial-cabinet-openclaw)
-  > 内阁都察制 · 一人公司多 Agent 治理框架（OpenClaw-based, Chinese-first）
+  > 内阁都察制 · 一人公司多 Agent 治理框架（基于 OpenClaw）。Multi-agent orchestration framework for solo founders.
+
+👉 **想看实际长什么样？** 戳 screenshots & demo：
+- 🧓👶 父母周报：[parents-weekly-briefing README 顶部](https://github.com/aitogether/parents-weekly-briefing#-screenshots)
+- 📱 Android Demo App：[parents-weekly-briefing-demo-app README 顶部](https://github.com/aitogether/parents-weekly-briefing-demo-app#-screenshots)
 
 （后续会把其他实用脚本/工具也逐步开源出来）
 
@@ -41,3 +45,4 @@
 ---
 
 _This profile is mostly in Chinese because my projects are primarily aimed at Chinese-speaking solo founders and adult children caring for aging parents._
+
