@@ -1,14 +1,15 @@
-# 👋 Hi, I’m aitogether
+# 👋 Hi, I'm aitogether
 
 一位爱折腾、怕麻烦的个人开发者，长期在深圳研究「AI + 自动化 + 一人公司」。  
-我更关心：**怎么少写命令、多让 Agent 干活、多一点可持续的闲钱。**
+最近把心力放在一件事上：**帮异地子女，用微信小程序每周读一眼父母状态，少一点瞎担心，多一点敢放心。**
 
 ## 👑 最近在搞什么
 
+- 🧓👶 **Parents Weekly Briefing**  
+  给异地子女的一周一次父母状态简报：只看步数和用药确认，生成一封「要不要回家看看」的周报，还带一条给爸妈的「回声」小问候。
+
 - 🏛️ **Imperial Cabinet for OpenClaw**  
   用「内阁都察制 · 御前内阁系统」把多 Agent 当成明清官僚体系来治理，专门给一人公司用 OpenClaw 接管日常工作流。
-- 🤖 Multi‑Agent 工作流  
-  把写文档、跑脚本、做运营、记账审计拆给不同 Agent，让人类只负责「拍板 + 暂停键」。
 
 - 🧪 小型自动化收入流实验  
   用现成开源项目 + 云服务，搭一些「能自己滚动维护、哪怕小但稳定」的收入小流水线。
@@ -22,6 +23,9 @@
 
 ## 🏛 代表项目
 
+- [parents-weekly-briefing](https://github.com/aitogether/parents-weekly-briefing)  
+  > WeChat mini program for adult children to receive a weekly briefing on aging parents, with a gentle parent app and one-tap echo feedback.
+
 - [imperial-cabinet-openclaw](https://github.com/aitogether/imperial-cabinet-openclaw)  
   > 内阁都察制 · 一人公司多 Agent 治理框架（OpenClaw-based, Chinese-first）
 
@@ -34,4 +38,4 @@
 
 ---
 
-_This profile is mostly in Chinese because my projects are primarily aimed at Chinese-speaking developers and solo founders._
+_This profile is mostly in Chinese because my projects are primarily aimed at Chinese-speaking solo founders and adult children caring for aging parents._
