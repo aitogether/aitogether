@@ -3,15 +3,23 @@
 用 AI 和自动化，帮一人公司少写命令、多赚闲钱。
 现在主要在做两件事：异地子女的父母周报，和一人公司的多 Agent 内阁系统。
 
+## 📸 Demo & Screenshots 入口
+
+- 🧓👶 父母周报截图：[parents-weekly-briefing 📸 Screenshots](https://github.com/aitogether/parents-weekly-briefing#-screenshots)
+- 📱 Android Demo App：[parents-weekly-briefing-demo-app](https://github.com/aitogether/parents-weekly-briefing-demo-app#-screenshots)
+- 🏛️ 内阁系统文档 & 示例：[imperial-cabinet-openclaw](https://github.com/aitogether/imperial-cabinet-openclaw#-目录结构)
+
 ## 👑 最近在搞什么
 
 当前 2026 Q1 的主线是把 Parents Weekly Briefing 跑进 3–5 个真实家庭，OpenClaw 内阁作为基础设施持续迭代。
 
 - 🧓👶 **Parents Weekly Briefing**
   给异地子女的一周一次父母状态简报：只看步数和用药确认，生成一封「要不要回家看看」的周报，还带一条给爸妈的「回声」小问候。
+  > 目标：2026 Q1 跑进 5–10 个真实家庭，当前进度：微信小程序 MVP + Android Demo 已完成，上线前准备中。
 
 - 🏛️ **Imperial Cabinet for OpenClaw**
   用「内阁都察制 · 御前内阁系统」把多 Agent 当成明清官僚体系来治理，专门给一人公司用 OpenClaw 接管日常工作流。
+  > 目标：v2 Alpha — 七阶段流水线 + 11 个 Skill 已就绪，正在补齐文档和运维脚本。
 
 - 🧪 小型自动化收入流实验
   用现成开源项目 + 云服务，搭一些「能自己滚动维护、哪怕小但稳定」的收入小流水线。
