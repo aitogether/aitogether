@@ -15,11 +15,11 @@
 
 - 🧓👶 **Parents Weekly Briefing**
   给异地子女的一周一次父母状态简报：只看步数和用药确认，生成一封「要不要回家看看」的周报，还带一条给爸妈的「回声」小问候。
-  > 目标：2026 Q1 跑进 5–10 个真实家庭，当前进度：微信小程序 MVP + Android Demo 已完成，上线前准备中。
+  > 目标：2026 Q1 跑进 5–10 个真实家庭，当前进度：微信小程序 MVP + Android Demo 已完成，下一步：接入真实微信登录与后端联调，上线内测。
 
 - 🏛️ **Imperial Cabinet for OpenClaw**
   用「内阁都察制 · 御前内阁系统」把多 Agent 当成明清官僚体系来治理，专门给一人公司用 OpenClaw 接管日常工作流。
-  > 目标：v2 Alpha — 七阶段流水线 + 11 个 Skill 已就绪，正在补齐文档和运维脚本。
+  > 目标：v2 Alpha — 七阶段流水线 + 11 个 Skill 已就绪，正在补齐文档和运维脚本，验证端到端工作流。
 
 - 🧪 小型自动化收入流实验
   用现成开源项目 + 云服务，搭一些「能自己滚动维护、哪怕小但稳定」的收入小流水线。
@@ -53,4 +53,3 @@
 ---
 
 _This profile is mostly in Chinese because my projects are primarily aimed at Chinese-speaking solo founders and adult children caring for aging parents._
-
