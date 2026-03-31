@@ -3,11 +3,19 @@
 用 AI 和自动化，帮一人公司少写命令、多赚闲钱。
 现在主要在做两件事：异地子女的父母周报，和一人公司的多 Agent 内阁系统。
 
-## 📸 Demo & Screenshots 入口
+## 📸 Screenshots — 父母周报
 
-- 🧓👶 父母周报截图：[parents-weekly-briefing 📸 Screenshots](https://github.com/aitogether/parents-weekly-briefing#-screenshots)
-- 📱 Android Demo App：[parents-weekly-briefing-demo-app](https://github.com/aitogether/parents-weekly-briefing-demo-app#-screenshots)
-- 🏛️ 内阁系统文档 & 示例：[imperial-cabinet-openclaw](https://github.com/aitogether/imperial-cabinet-openclaw#-目录结构)
+> 色板 v1.1 · BrandTeal #20A080 · Android 模拟器截图（2026-03-31）
+
+| 首页 | 周报概览 | 步数趋势 | 多周趋势 |
+| --- | --- | --- | --- |
+| ![](https://raw.githubusercontent.com/aitogether/parents-weekly-briefing/main/ui-prototype/screenshots/01-home.png) | ![](https://raw.githubusercontent.com/aitogether/parents-weekly-briefing/main/ui-prototype/screenshots/02-report.png) | ![](https://raw.githubusercontent.com/aitogether/parents-weekly-briefing/main/ui-prototype/screenshots/03-step-chart.png) | ![](https://raw.githubusercontent.com/aitogether/parents-weekly-briefing/main/ui-prototype/screenshots/04-multi-week-trend.png) |
+
+| 焦虑自查 | 妈妈用药 | 爸爸用药 | 用药计划 |
+| --- | --- | --- | --- |
+| ![](https://raw.githubusercontent.com/aitogether/parents-weekly-briefing/main/ui-prototype/screenshots/05-anxiety-survey.png) | ![](https://raw.githubusercontent.com/aitogether/parents-weekly-briefing/main/ui-prototype/screenshots/06-medication-mom.png) | ![](https://raw.githubusercontent.com/aitogether/parents-weekly-briefing/main/ui-prototype/screenshots/07-medication-dad.png) | ![](https://raw.githubusercontent.com/aitogether/parents-weekly-briefing/main/ui-prototype/screenshots/08-medication-plan.png) |
+
+> 📱 更多详情：[parents-weekly-briefing](https://github.com/aitogether/parents-weekly-briefing) · [Demo App](https://github.com/aitogether/parents-weekly-briefing-demo-app) · [内阁系统](https://github.com/aitogether/imperial-cabinet-openclaw)
 
 ## 👑 最近在搞什么
 
