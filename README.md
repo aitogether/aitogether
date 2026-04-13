@@ -3,6 +3,8 @@
 用 AI 和自动化，帮一人公司少写命令、多赚闲钱。
 现在主要在做两件事：异地子女的父母周报，和一人公司的多 Agent 内阁系统。
 
+🧓👶 **正在进行中**：在外打拼的子女，很难每天打电话回家——但又总惦记爸妈身体怎样、药有没有忘吃、今天走了多少步、心情好不好。我们正在做一个微信小程序，让子女每周收到一封父母状态简报，爸妈那边只需要「点一下」就能完成反馈。不用天天追着问，也不用时刻焦虑。
+
 ## 📸 Screenshots — 父母周报
 
 > 色板 v1.1 · BrandTeal #20A080 · Android 模拟器截图（2026-03-31）
@@ -19,11 +21,11 @@
 
 ## 👑 最近在搞什么
 
-当前 2026 Q1 的主线是把 Parents Weekly Briefing 跑进 3–5 个真实家庭，OpenClaw 内阁作为基础设施持续迭代。
+当前 2026 Q1–Q2 的主线是把 Parents Weekly Briefing 跑进真实家庭，OpenClaw 内阁作为基础设施持续迭代。
 
-- 🧓👶 **Parents Weekly Briefing**
+- 🧓👶 **Parents Weekly Briefing**（父母周报）
   给异地子女的一周一次父母状态简报：只看步数和用药确认，生成一封「要不要回家看看」的周报，还带一条给爸妈的「回声」小问候。
-  > 目标：2026 Q1 跑进 5–10 个真实家庭，当前进度：微信小程序 MVP + Android Demo 已完成，下一步：接入真实微信登录与后端联调，上线内测。
+  > 目标：微信小程序 MVP + Android Demo 已完成，当前进度：接入真实微信登录与后端联调，准备上线内测，跑进首批真实家庭。
 
 - 🏛️ **Imperial Cabinet for OpenClaw**
   用「内阁都察制 · 御前内阁系统」把多 Agent 当成明清官僚体系来治理，专门给一人公司用 OpenClaw 接管日常工作流。
@@ -42,7 +44,10 @@
 ## 🏛 代表项目
 
 - [parents-weekly-briefing](https://github.com/aitogether/parents-weekly-briefing)
-  > WeChat mini program for adult children to get a weekly briefing on aging parents, plus a gentle parent app and one-tap echo feedback.
+  > WeChat mini program for adult children to get a weekly briefing on aging parents — step counts, medication adherence, mood check-ins, and a gentle one-tap "echo" feedback for parents.
+
+- [parents-weekly-briefing-demo-app](https://github.com/aitogether/parents-weekly-briefing-demo-app)
+  > Android demo app showcasing the Parents Weekly Briefing UI prototype.
 
 - [imperial-cabinet-openclaw](https://github.com/aitogether/imperial-cabinet-openclaw)
   > 内阁都察制 · 一人公司多 Agent 治理框架（基于 OpenClaw）。Multi-agent orchestration framework for solo founders.
@@ -60,4 +65,10 @@
 
 ---
 
-_This profile is mostly in Chinese because my projects are primarily aimed at Chinese-speaking solo founders and adult children caring for aging parents._
+### 🌍 About This Profile (English)
+
+_This profile is mostly in Chinese because my projects are primarily aimed at Chinese-speaking solo founders and families._
+
+**Parents Weekly Briefing** is a WeChat mini program built for **adult children who live far from their aging parents**. Many of us can't call home every day, but we constantly worry — are they eating well? Did they take their medication? How many steps did they walk today? This project sends a simple weekly report to the child, while the parent only needs to tap once to give feedback. No complicated setup, no guilt — just a quiet, reliable connection across the distance.
+
+If you're building something for the "sandwich generation" — people juggling careers and aging parents — I'd love to connect. Open an issue or start a discussion in any repo.
