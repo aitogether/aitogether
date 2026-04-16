@@ -35,10 +35,14 @@
   给异地子女的一周一次父母状态简报：只看步数和用药确认，生成一封「要不要回家看看」的周报，还带一条给爸妈的「回声」小问候。
   > 目标：微信小程序 MVP + Android Demo 已完成，当前进度：接入真实微信登录与后端联调，准备上线内测，跑进首批真实家庭。
 
+  **👉 如果你是异地子女，想参加内测：**
+  [→ 查看内测报名说明](https://github.com/aitogether/parents-weekly-briefing/blob/main/README.md#%F0%9F%A7%B9-%E6%AD%A3%E5%9C%A8%E5%8B%9F%E9%9B%86-5-10-%E4%B8%AA%E5%AE%B6%E5%BA%AD%E8%BF%9B%E8%A1%8C%E5%86%85%E6%B5%8B)
 - 🏛️ **Imperial Cabinet for OpenClaw**
   用「内阁都察制 · 御前内阁系统」把多 Agent 当成明清官僚体系来治理，专门给一人公司用 OpenClaw 接管日常工作流。
   > 目标：v2 Alpha — 七阶段流水线 + 11 个 Skill 已就绪，正在补齐文档和运维脚本，验证端到端工作流。
 
+  **👉 如果你是一人公司，想用 OpenClaw 接管日常工作：**
+  [→ 查看 OpenClaw 上手示例](https://github.com/aitogether/imperial-cabinet-openclaw/blob/main/README.md#10-%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%E7%A4%BA%E4%BE%8B)
 - 🧪 小型自动化收入流实验
   用现成开源项目 + 云服务，搭一些「能自己滚动维护、哪怕小但稳定」的收入小流水线。
 
