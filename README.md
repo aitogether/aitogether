@@ -1,5 +1,13 @@
 # 👋 Hi, I'm AITogether
 
+<p align="center">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/aitogether?style=flat-square&color=gold" />
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/aitogether?style=flat-square&color=brightgreen" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aitogether/aitogether?style=flat-square&color=blue" />
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/aitogether/aitogether?style=flat-square&color=orange" />
+</p>
+
+
 用 AI 和自动化，帮一人公司少写命令、多赚闲钱。
 现在主要在做两件事：异地子女的父母周报，和一人公司的多 Agent 内阁系统。
 
